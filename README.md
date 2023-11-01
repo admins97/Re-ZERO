@@ -1,5 +1,5 @@
 # Re-ZERO
-2023-1 SKKU AI S.E.L.F. Re:ZERO
+2023-2 SKKU AI S.E.L.F. Re:ZERO
 
 ## CIFAR10
 ```bash
